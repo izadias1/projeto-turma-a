@@ -1,7 +1,7 @@
 
-# izabela cibele dias
+# Izabela Cibele Rocha Dias
 ---
-## dados pessoais:
+## Dados Pessoais:
 
 ---
 
@@ -11,11 +11,13 @@ RG:XXXXXXXX
 
 TELEFONE: XXXXXXXX
 
-E-mail: XXXXXX
+E-mail: XXXXXXXXXXXXX
 
 ---
 
-## Experiecia:
+## Experiencia:
 
 - Aluno Unimar
+- Aluno Compacto
+
 - Olá, fiz uma mudança aqui!
